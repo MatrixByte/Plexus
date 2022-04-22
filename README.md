@@ -31,5 +31,5 @@ npm install plexus-djs
 
 <br>
 
-# ©️ License: 
+# ©️ Credits: 
 - simplydjs - README.md
