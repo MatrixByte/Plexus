@@ -4,7 +4,6 @@
 
 <h2 align="center"> A Simple, Easy and Beginner friendly Discord.js Package for everyone. <br>Uses Discord.js v13<br>
 
-<br>
 <p align="center">
    <a href="https://www.npmjs.com/package/plexus-djs"><img src="https://img.shields.io/npm/v/plexus-djs.svg?style=flat-square" /></a>
    <br>
@@ -12,6 +11,9 @@
 </p>
 
 <br>
+
+## ✏️ <b>Support Server
+<a href="https://discord.gg/HHkuFTy4r4"> <img src="https://discord.com/api/guilds/955029112219664415/widget.png?style=banner2"> </a>
 
 ## 🖥️ <b>How to install ?
 
